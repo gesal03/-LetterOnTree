@@ -1,4 +1,4 @@
-## LetterOnTree
+## WishTree
 🍁 멋쟁이사자처럼 10기 단풍톤 - Letter on Tree
 
 ### 서비스 소개
